@@ -5,7 +5,6 @@ function App() {
   return (
     <div className="App">
       <h3>This is from local repository</h3>
-
     </div>
   );
 }
